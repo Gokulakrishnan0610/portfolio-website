@@ -12,7 +12,7 @@ welcome to my Poortfolio website. This project is a simple two-page site that in
 **CSS:** For styling and layout of the website.
 
 ## How to View 
-You can access my portfolio website by visiting [Link] Feel free to explore the content and get in touch!.
+You can access my portfolio website by visiting [https://gokulakrishnan0610.github.io/portfolio-website/] Feel free to explore the content and get in touch!.
 
 ## Contribution
 Feel free to fork this repository and submit pull requests. Any improvements or suggestions are welcome!
